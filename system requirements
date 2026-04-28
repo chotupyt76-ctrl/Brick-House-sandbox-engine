@@ -1,0 +1,25 @@
+---
+#🖥️ System Requirements
+Minimum:
+
+CPU: Dual-Core 2.0GHz (Optimized for Intel i3-3240)
+
+RAM: 4GB DDR3
+
+OS: Windows 10 (64-bit)
+
+Storage: 500MB available space
+
+Input: Standard Keyboard/Mouse
+
+Recommended:
+
+CPU: Quad-Core 3.0GHz or higher
+
+RAM: 8GB DDR4 (Required for fast "Forge" build times)
+
+GPU: Dedicated Graphics (1GB VRAM)
+
+Storage: 128GB (For Python environment and build cache)
+
+Input: Multi-point Touch Screen (Touch-Native Mode)
