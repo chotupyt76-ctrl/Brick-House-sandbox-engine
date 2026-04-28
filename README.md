@@ -21,5 +21,5 @@ BrickHouse is a custom-built, lightweight execution environment designed for sta
 Since the engine is kept separate from Python to keep the file size small, follow these steps:
 
 1. **Clone the Repo:** Download these files to a folder.
-2. **Install Requirements:** ```powershell
-   pip install -r requirements.txt
+2. **Install Requirements:** 
+   go to releases tab and download files
